@@ -1,0 +1,9 @@
+{
+    "dependencies": [
+        {
+            "url": "git@github.com:mwhite05/mum-example-js.git",
+            "version": "master",
+            "dir": "./js"
+        }
+    ]
+}

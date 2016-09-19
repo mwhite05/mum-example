@@ -1,9 +1,9 @@
 {
+    "name": "mum-example",
     "dependencies": [
         {
-            "url": "git@github.com:mwhite05/mum-example-js.git",
-            "version": "master",
-            "dir": "./js"
+            "source": "git@github.com:mwhite05/mum-example-js.git#master",
+            "installTo": "./js"
         }
     ]
 }

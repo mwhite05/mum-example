@@ -2,7 +2,7 @@
     "name": "mum-example",
     "dependencies": [
         {
-            "source": "git@github.com:mwhite05/mum-example-js.git#master",
+            "source": "git@github.com:mwhite05/mum-example-js.git#removed-files-master",
             "installTo": "./js"
         }
     ]
